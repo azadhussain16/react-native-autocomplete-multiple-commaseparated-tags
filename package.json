@@ -1,0 +1,31 @@
+{
+  "name": "react-native-autocomplete-multiple-commaseprated-tags",
+  "version": "1.0.6",
+  "description": "React Native AutoComplete AutoSugestion Dropdown with Multiple Comma Separated Tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azadhussain16/react-native-autocomplete-multiple-commaseparated-tags.git"
+  },
+  "keywords": [
+    "react-native",
+    "autocomplete",
+    "autosugest",
+    "tags",
+    "multiple",
+    "tags",
+    "comma",
+    "separated",
+    "tags",
+    "dropdown"
+  ],
+  "author": "Azad Hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azadhussain16/react-native-autocomplete-multiple-commaseparated-tags/issues"
+  },
+  "homepage": "https://github.com/azadhussain16/react-native-autocomplete-multiple-commaseparated-tags#readme"
+}
